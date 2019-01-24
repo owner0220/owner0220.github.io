@@ -75,7 +75,7 @@ function isMaxHeight() {
             anchorBtn.classList.add('anchor-hide')
         }
 
-        //监听body，点击body，隐藏Content
+        //body，Content
         document.querySelector('body').addEventListener('click', function() {
             rightDiv.classList.remove('right-show')
             anchorBtn.classList.remove('anchor-hide')
