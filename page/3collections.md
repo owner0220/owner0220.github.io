@@ -9,12 +9,12 @@ type: page
 * content
 {:toc}
 
-## 工具
+## 예시
 
-* [box-shadow generator](http://www.cssmatic.com/box-shadow)
+* [데이터 링크](http://www.cssmatic.com/box-shadow)
 
-    生成 box-shadow 的工具。
+    주석1
 
-* [gradient-generator](http://www.cssmatic.com/gradient-generator)
+* [데이터 링크 2](http://www.cssmatic.com/gradient-generator)
 
 {% include comments.html %}
