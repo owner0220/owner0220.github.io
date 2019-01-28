@@ -4,8 +4,6 @@ title:  "NIC(Network Interface CARD， LAN CARD)"
 date:   2019-01-28 23:03:54
 categories: Network
 tags: Network
-excerpt: Lan
-mathjax: true
 ---
 
 [TOC]
