@@ -8,7 +8,9 @@ excerpt: Lan
 mathjax: true
 ---
 
-- content {:toc}
+[TOC]
+
+
 
 # NIC(Network Interface CARD， LAN CARD) 
 
