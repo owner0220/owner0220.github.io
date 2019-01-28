@@ -4,6 +4,7 @@ title:  "NIC(Network Interface CARD， LAN CARD)"
 date:   2019-01-28 23:03:54
 categories: Network
 tags: Network
+excerpt: 랜카드란? NIC와 네트워크
 ---
 
 [TOC]
