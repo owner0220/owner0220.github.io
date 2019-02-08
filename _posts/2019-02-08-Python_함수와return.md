@@ -2,7 +2,7 @@
 layout: post
 title:  Python 함수와 return
 date:   2019-02-08 22:40:35
-categories: Programming Language
+categories: Language
 tags: PYTHON
 excerpt: 함수와 리턴에 대하여
 
