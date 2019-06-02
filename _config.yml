@@ -29,6 +29,8 @@ markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -46,16 +48,22 @@ collections:
     output: true
 
 defaults:
+  # _authors를 루트 path에서 찾고
+  # 레이아웃은 author를 찾아간다.
   - scope:
       path: ""
       type: "authors"
     values:
       layout: "author"
+  # _posts를 루트 path에서 찾고
+  # 레이아웃은 post를 찾아간다.
   - scope:
       path: ""
       type: "posts"
     values:
       layout: "post"
+  # 위의 것을 제외한 것은
+  # default 레이아웃 적용
   - scope:
       path: ""
     values:
