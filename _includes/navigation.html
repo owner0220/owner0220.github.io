@@ -1,4 +1,4 @@
-<nav class=" navbar navbar-light bg-light shadow-sm">
+<nav class="navbar navbar-light bg-light shadow-sm">
     {% for item in site.data.navigation %}
         <a href="{{item.link}}" {%if page.url == item.link %}class="current"{% endif %}>
             {{ item.name }}
