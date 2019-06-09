@@ -3,4 +3,9 @@ layout: default
 title: Home
 ---
 
-<h1>{{ "This is Home" | downcase }}</h1>
+<h1>Recent Posts</h1>
+{% for post in site.posts %}
+  <h2><a class="text-reset" href="{{ post.url }}"><div class="text-black-50">{{ post.title }}</div></a></h2>
+  <p>{{ post.excerpt }}</p>
+{% endfor %}
+

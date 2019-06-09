@@ -44,7 +44,7 @@ plugins:
 #   - vendor/gems/
 #   - vendor/ruby/
 collections:
-  authors:
+  tags:
     output: true
 
 defaults:
@@ -52,9 +52,9 @@ defaults:
   # 레이아웃은 author를 찾아간다.
   - scope:
       path: ""
-      type: "authors"
+      type: "tags"
     values:
-      layout: "author"
+      layout: "tag"
   # _posts를 루트 path에서 찾고
   # 레이아웃은 post를 찾아간다.
   - scope:

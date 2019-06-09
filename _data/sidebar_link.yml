@@ -3,19 +3,20 @@
   link: /
 - name: Portfolio
   icon: <i class="fas fa-link mr-1"></i>
-  link: /about.html
+  link: https://github.com/owner0220/portfolio
 - name: Email
   icon: <i class="far fa-envelope mr-1"></i>
   link: /posts.html
-- name: Linkedin
+- name: GitHub
+  icon: <i class="fab fa-github mr-1"></i>
+  link: https://github.com/owner0220  
+- name: LinkedIn
   icon: <i class="fab fa-linkedin mr-1"></i>
   link: /tags.html
 - name: Stackoverflow
   icon: <i class="fab fa-stack-overflow mr-1"></i>
   link: /tags.html
-- name: owener0220
-  icon: <i class="fab fa-github mr-1"></i>
-  link: /tags.html
+
 
 
 

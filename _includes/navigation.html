@@ -1,7 +1,8 @@
 <nav class="navbar d-flex">
+    <div class="container">
             {% for item in site.data.navigation %}
                 {%if item == site.data.navigation[0] %}
-                <div class="ml-5 pl-5">
+                <div class="">
                     <a href="{{item.link}}" {%if page.url == item.link %}class="current p-2"{% endif %} class="nav-text p-2">
                         <strong>{{ item.name }}</strong>
                     </a>

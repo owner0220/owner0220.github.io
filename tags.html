@@ -2,13 +2,17 @@
 layout: default
 ---
 <h1>Tags</h1>
+{% for tag in site.tags %}
+<div class="tags d-inline"><a class="text-reset" href="{{tag.url}}">{{tag.name}}</a> </div>
+{% endfor %}
+
 
 <ul>
-  {% for author in site.authors %}
+  {% for tag in site.tags %}
     <li>
-      <h2><a href="{{ author.url }}">{{ author.name }}</a></h2>
-      <h3>{{ author.position }}</h3>
-      <p>{{ author.content | markdownify }}</p>
+      <h1><a href="{{ tag.url }}"><div class="text-black-50">{{ tag.name }}</div></a></h1>
+      <h3>{{ tag.position }}</h3>
+      <p>{{ tag.content | markdownify }}</p>
     </li>
   {% endfor %}
 </ul>
