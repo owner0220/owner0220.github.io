@@ -1,0 +1,23 @@
+- name: Gwangju, South Korea
+  icon: <i class="fas fa-map-marker-alt mr-1"></i>
+  link: /
+- name: Portfolio
+  icon: <i class="fas fa-link mr-1"></i>
+  link: /about.html
+- name: Email
+  icon: <i class="far fa-envelope mr-1"></i>
+  link: /posts.html
+- name: Linkedin
+  icon: <i class="fab fa-linkedin mr-1"></i>
+  link: /tags.html
+- name: Stackoverflow
+  icon: <i class="fab fa-stack-overflow mr-1"></i>
+  link: /tags.html
+- name: owener0220
+  icon: <i class="fab fa-github mr-1"></i>
+  link: /tags.html
+
+
+
+
+  

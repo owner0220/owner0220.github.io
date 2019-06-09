@@ -1,7 +1,24 @@
-<nav class="navbar navbar-light bg-light shadow-sm">
-    {% for item in site.data.navigation %}
-        <a href="{{item.link}}" {%if page.url == item.link %}class="current"{% endif %}>
-            {{ item.name }}
-        </a>
-    {% endfor %}
+<nav class="navbar d-flex">
+            {% for item in site.data.navigation %}
+                {%if item == site.data.navigation[0] %}
+                <div class="ml-5 pl-5">
+                    <a href="{{item.link}}" {%if page.url == item.link %}class="current p-2"{% endif %} class="nav-text p-2">
+                        <strong>{{ item.name }}</strong>
+                    </a>
+                </div>
+                
+                {%elsif item == site.data.navigation[3] %}
+                <div class="mr-auto text-left">
+                    <a href="{{item.link}}" {%if page.url == item.link %}class="current p-2"{% endif %} class="nav-text p-2">
+                        {{ item.name }}
+                    </a>
+                </div>
+                    
+                {% else %}
+                    <a href="{{item.link}}" {%if page.url == item.link %}class="current p-2"{% endif %} class="nav-text p-2">
+                        {{ item.name }}
+                    </a>
+                {%endif%}
+            {% endfor %}
+    </div>
 </nav>
