@@ -2,12 +2,12 @@
     <img src="http://gravatar.com/avatar/df40089866236e430ff98bbc945d20dd" alt="" class="image--cover" />    
     <h3>Insik Hwang</h3>
     <p>SSAFY(Samsung Software Academy For Youth)</p>
-    <ul class="sidevar-text">
+    <ul class="sidebar-text">
         {% for item in site.data.sidebar_link %}
         <li>
                 <a class="text-reset row" href="{{item.link}}">
                     <div class="col-1">{{item.icon}}</div>
-                    <div class="col-11">{{item.name}}</div>
+                    <div class="col-11 font-weight-bold text-dark">{{item.name}}</div>
                 </a>
         </li>
         {% endfor %}
