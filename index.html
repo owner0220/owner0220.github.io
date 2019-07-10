@@ -1,14 +1,4 @@
 ---
-layout: default
+layout: page
 title: Home
 ---
-
-<h1>Recent Posts</h1>
-<ul>
-  <li>
-    {% for post in site.posts %}
-      <h2><a class="text-reset" href="{{ post.url }}"><div class="text-black-50">{{ post.title }}</div></a></h2>
-      <p>{{ post.summary }}</p>
-    {% endfor %}
-  </li>
-</ul>
