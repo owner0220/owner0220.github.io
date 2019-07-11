@@ -1,0 +1,27 @@
+<nav class="navbar d-flex">
+    <div class="container">
+            {% for item in site.data.navigation %}
+                {%if item == site.data.navigation[0] %}
+                <div class="nav-text p-2">
+                    <a href="{{item.link}}" {%if page.url == item.link %}class="current p-2"{% endif %} class="nav-text p-2">
+                        <strong>{{ item.name }}</strong>
+                    </a>
+                </div>
+                
+                {%elsif item == site.data.navigation[3] %}
+                <div class="mr-auto">
+                    <a href="{{item.link}}" {%if page.url == item.link %}class="current p-2"{% endif %} class="nav-text p-2">
+                        {{ item.name }}
+                    </a>
+                </div>
+                    
+                {% else %}
+                <div class="nav-text">
+                    <a href="{{item.link}}" {%if page.url == item.link %}class="current p-2"{% endif %} class="nav-text p-2">
+                        {{ item.name }}
+                    </a>
+                </div>
+                {%endif%}
+            {% endfor %}
+    </div>
+</nav>

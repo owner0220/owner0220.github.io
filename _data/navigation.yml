@@ -1,0 +1,8 @@
+- name: KeepGoing
+  link: /
+- name: About
+  link: /about.html
+- name: Posts
+  link: /posts.html
+- name: Tags
+  link: /tags.html
