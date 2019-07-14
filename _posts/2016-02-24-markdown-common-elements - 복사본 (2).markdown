@@ -9,7 +9,7 @@ tag:
 - elements
 star: true
 category: blog
-author: insik hwang
+author: insik
 description: Markdown summary with different options
 ---
 
