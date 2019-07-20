@@ -10,14 +10,10 @@ author: insik
 description: SW Export Academy - 거꾸로 출력해 보아요
 ---
 
-## Basic formatting
-
 ## SW_Export_Academy_개인학습
 
 - 지속력 있는 학습을 위해 글을 올립니다.
-- 모든 출처와 저작권은 SW Export Academy에 있습니다.
-
-[^출처]: https://www.swexpertacademy.com/
+- 모든 출처와 저작권은 [SW Export Academy][출처]에 있습니다.
 
 
 
@@ -61,3 +57,5 @@ N = int(input())
 for i in range(N,-1,-1):
     print(i,end=" ")
 ```
+
+[출처]: https://www.swexpertacademy.com/

@@ -1,0 +1,60 @@
+---
+title: "SW Export Academy - D1_2019"
+layout: post
+date: 2019-07-20 12:28
+tag:
+- algorithm
+- python
+category: blog
+author: insik
+description: SW Export Academy - 더블더블
+---
+
+## SW_Export_Academy_개인학습
+
+- 지속력 있는 학습을 위해 글을 올립니다.
+- 모든 출처와 저작권은 [SW Export Academy][출처]에 있습니다.
+
+
+
+# D1_2019. 더블더블
+
+### 문제:
+
+- 1부터 주어진 횟수까지 2를 곱한 값(들)을 출력하시오.
+- 주어질 숫자는 30을 넘지 않는다.
+
+
+
+### 입력:
+
+N (N<30)
+
+
+
+### 출력:
+
+ex) 1 2 4 8 16 32 64 128 256
+
+
+
+#### 생각한 로직:
+
+- 반복문을 주어진 N만큼 회전 할 때마다 결과값을 출력해 준다.
+
+
+
+#### 코딩:
+
+```python
+N = int(input())
+result = 1
+for i in range(N+1):
+    print(result,end=" ")
+    result *= 2
+
+```
+
+
+
+[출처]: https://www.swexpertacademy.com/
