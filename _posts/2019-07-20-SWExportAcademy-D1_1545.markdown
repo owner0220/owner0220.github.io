@@ -1,7 +1,7 @@
 ---
-title: "Markdown Common Elements"
+title: "SW Export Academy - D1_1545"
 layout: post
-date: 2016-02-24 22:44
+date: 2019-07-20 12:28
 image: /assets/images/markdown.jpg
 headerImage: false
 tag:
