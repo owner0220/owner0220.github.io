@@ -1,0 +1,51 @@
+---
+title: Python_모듈
+layout: post
+date: 2019-08-03 20:23
+tag:
+-python
+category: blog
+author: insik
+description: 파이썬 모듈
+---
+
+# Python
+
+## 파이썬 모듈
+
+### 모듈
+
+- 여러 코드를 묶어 다른 곳에서 재사용 할 수 있는 코드의 모음이다.
+
+
+
+### 사용법
+
+```python
+#os, math, bs4 모듈을 포함 시킬때 내용
+import os
+import math
+import bs4
+
+#copy 모듈 안에 copy 메서드를 포함
+from copy import copy
+
+#As 참조를 다른이름으로 설정 할 때 사용한다.
+#os라는 이름대신 window를 쓰겠어~
+import os as window
+```
+
+
+
+
+
+
+
+※ 파이썬 새 모듈 설치시 powershell 이나 cmd 창에서
+
+```powershell
+pip install bs4
+```
+
+**pip를 통해서 설치할껀데 bs4를 찾아서 설치해줘~** 라는 뜻
+

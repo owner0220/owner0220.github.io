@@ -1,0 +1,140 @@
+---
+title: Markdown 문서 변환기
+layout: post
+date: 2019-08-03 18:10
+tag:
+- Markdown
+category: blog
+author: insik
+description: 마크다운 문서 변환기 설치 및 사용
+---
+
+## Pandoc_markdown 변환기
+
+[^Pandoc]: Haskell 로 만들어진 converter
+
+[^]:  markdown, MediaWiki, textile, HTML, ms 워드(.docx), epub, PDF 등으로 변환이 가능한 유틸리티
+
+[TOC]
+
+## 설치
+
+### 수동으로 설치
+
+<https://github.com/jgm/pandoc/releases> 에 연결후 맨 아래 Downloads에서 사용하는 OS 에 맞는 버전 다운로드
+
+- Windows - <https://github.com/jgm/pandoc/releases/download/2.5/pandoc-2.5-windows-x86_64.msi>
+- Mac OS X - <https://github.com/jgm/pandoc/releases/download/2.5/pandoc-2.5-macOS.pkg>
+
+### Package manager 로 설치
+
+##### H4. CENTOS
+
+```
+`yum install pandoc`
+```
+
+##### UBUNTU
+
+```
+`sudo apt install pandoc`
+```
+
+##### OS X
+
+```
+`brew install pandoc`
+```
+
+##### WINDOWS
+
+```
+`choco install pandoc`
+```
+
+
+
+### PDF 출력
+
+- <http://pandoc.org/installing.html>
+
+pdf로 만들려면 Latex 패키지를 설치해야 하며 권장하는 패키지는 OS 마다 다름
+
+Windows 에서는 <https://miktex.org/> 를 OS X 는 <http://www.tug.org/mactex/morepackages.html> 를 설치하고 필요한 패키지는 tex의 패키지 매니저 사용
+
+
+
+## 사용
+
+cmd 나 쉘에서 pandoc 명령어로 원하는 포맷으로 변환
+
+
+
+### markdown 변환
+
+- <http://pandoc.org/getting-started.html>
+
+test.md 파일로 저장
+
+**test.md**
+
+```markdown
+# Test!
+This is a test of *pandoc*.
+- list one``- list two
+```
+
+
+
+**cmd** 나 **쉘**에서 다음 명령어 실행
+
+```
+pandoc test1.md -f markdown -t html -s -o test1.html
+```
+
+- **-f** : from  원본 소스의 포맷(html, json, markdown, docx 등)
+- **-t** : to 변환할 포맷(html, json, markdown, docx 등)
+- **-s** : standalone
+- **-o** : output 출력 파일 이름
+
+
+
+test1.md 가 다음 html 로 변환됨
+
+ 여기를 클릭하여 펼치기...
+
+```html
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <meta http-equiv="Content-Type"content="text/html; charset=utf-8"/>
+        <meta http-equiv="Content-Style-Type"content="text/css"/>
+        <meta name="generator"content="pandoc"/>
+        <title></title>
+        <style type="text/css">code{white-space: pre;}</style>
+    </head>
+    <body>
+        <h1 id="test">Test!</h1>
+        <p>This is a test of <em>pandoc</em>.</p>
+        <ul>
+            <li>list one</li>
+            <li>list two</li>
+        </ul>
+    </body>
+</html>
+```
+
+
+
+#### markdown 을 MS WORD(docx) 로 변환
+
+```
+`pandoc test1.md -f markdown -t docx -s -o test1.docx`
+```
+
+
+
+### Ref
+
+- <https://github.com/jgm/pandoc/releases>
+

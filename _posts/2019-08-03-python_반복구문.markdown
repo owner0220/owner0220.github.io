@@ -1,0 +1,20 @@
+---
+title: Python_반복구문
+layout: post
+date: 2019-08-03 20:15
+tag:
+-python
+category: blog
+author: insik
+description: 파이썬 반복 구문
+---
+
+# Python
+
+## 반복구문
+
+같은 일 여러번 반복
+
+| 반복 | while | for    in |
+| ---- | ----- | --------- |
+| 제어 | break | continue  |

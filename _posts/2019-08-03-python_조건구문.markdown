@@ -1,0 +1,24 @@
+---
+title: Python_조건구문
+layout: post
+date: 2019-08-03 20:14
+tag:
+-python
+category: blog
+author: insik
+description: 파이썬 조건 구문
+---
+
+# Python
+
+## 조건구문
+
+**참**일때 if 안쪽
+
+**거짓**일때 else 안쪽 실행
+
+
+
+※ '{' 과 '}' 대신 블록 간격으로 구분된다. 탭, 공백 혼용 X (2~4칸 공백사용)
+
+가장 바깥 구문은 1열부터 시작한다.

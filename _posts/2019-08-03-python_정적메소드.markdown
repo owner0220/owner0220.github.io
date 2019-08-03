@@ -1,0 +1,25 @@
+---
+title: Python_정적 메소드
+layout: post
+date: 2019-08-03 20:19
+tag:
+-python
+category: blog
+author: insik
+description: 파이썬 정적 메소드
+---
+
+# Python
+
+## 정적 메소드 (=Static method)
+
+클래스에서 직접 호출할 수 있는 메소드
+
+※ 메소드를 정의할 때 인스턴스 객체를 참조하는 **self** 인자를 선언하지 않는다. (인스턴스에는 적용되지 않는다.)
+
+
+
+``` Mycalc.my_add```
+
+클래스명.메소드명
+

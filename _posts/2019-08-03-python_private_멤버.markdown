@@ -1,0 +1,28 @@
+---
+title: Python_private_멤버
+layout: post
+date: 2019-08-03 20:20
+tag:
+-python
+category: blog
+author: insik
+description: 파이썬 private 멤버
+---
+
+# Python
+
+## Private 멤버
+
+### Private 멤버 변수 정의
+
+- 클래스 내부 멤버변수 中 숨기고 싶은 변수에 사용한다.
+
+
+
+※ class 내부 변수는 public 성격으로 마음대로 접근, 변경이 가능하지만 **private 변수는 외부에서 변경이 어렵게 이름을 변경한다.** (Name Mangling)
+
+**\_***         :  모듈(파일) 안에서 _로 시작하는 식별자를 정의하면 다른파일에서 접근 할 수 없다.
+
+**\_ \_*\_ \_ ** :  앞,뒤로 _ _ 가 있는 식별자는 시스템에서 정의한 이름이다.
+
+**\_ \_***      : 클래스 안에서 외부로 노출되지 않는 식별자로 인식한다.

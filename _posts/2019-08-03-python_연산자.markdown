@@ -1,0 +1,23 @@
+---
+title: Python_연산자
+layout: post
+date: 2019-08-03 20:07
+tag:
+-python
+category: blog
+author: insik
+description: 파이썬 연산자
+---
+
+# Python
+
+## 연산자
+
+- 산술연산자 :     +      -      *     /      //     **      %
+
+- 관계연산자 :    ==      !=      >      <      >=      <=
+
+- 논리연산자 :    not    and     or
+
+  ※ **~~&&   ||~~**   파이썬에서 지원하지 않는다.
+

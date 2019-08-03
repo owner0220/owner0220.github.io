@@ -1,0 +1,17 @@
+---
+title: Python_다중 상속과 이름 충돌
+layout: post
+date: 2019-08-03 20:22
+tag:
+-python
+category: blog
+author: insik
+description: 파이썬 다중 상속과 이름 충돌
+---
+
+# Python
+
+## 다중상속과 이름충돌
+
+내부에서 부터 시작해서 상속 순서 순으로 우선순위 실행 된다.
+
