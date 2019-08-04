@@ -1,5 +1,5 @@
 ---
-title: Python_얕은복사,깊은복사
+title: python_얕은복사,깊은복사
 layout: post
 date: 2019-08-03 20:05
 tag:

@@ -1,5 +1,5 @@
 ---
-title: "Typora Markdown"
+title: typora Markdown
 layout: post
 date: 2019-08-03 18:05
 tag:

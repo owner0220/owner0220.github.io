@@ -1,5 +1,5 @@
 ---
-title: Python_튜플
+title: python_튜플
 layout: post
 date: 2019-08-03 20:02
 tag:

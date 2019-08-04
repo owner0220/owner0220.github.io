@@ -1,5 +1,5 @@
 ---
-title: 명령어로 sqlplus를 활용해 DB 접속하기
+title: cli_sqlplus_접속
 layout: post
 date: 2019-08-03 18:12
 tag:

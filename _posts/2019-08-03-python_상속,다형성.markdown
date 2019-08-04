@@ -1,5 +1,5 @@
 ---
-title: Python_상속과 다형성
+title: python_상속과 다형성
 layout: post
 date: 2019-08-03 20:21
 tag:

@@ -1,5 +1,5 @@
 ---
-title: Python_정적 메소드
+title: python_정적 메소드
 layout: post
 date: 2019-08-03 20:19
 tag:

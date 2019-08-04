@@ -1,5 +1,5 @@
 ---
-title: Python_생성자,소멸자
+title: python_생성자,소멸자
 layout: post
 date: 2019-08-03 20:19
 tag:

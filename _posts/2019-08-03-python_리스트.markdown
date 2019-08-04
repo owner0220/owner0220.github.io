@@ -1,5 +1,5 @@
 ---
-title: Python_리스트
+title: python_리스트
 layout: post
 date: 2019-08-03 20:01
 tag:

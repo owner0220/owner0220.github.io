@@ -1,5 +1,5 @@
 ---
-title: Python_모듈
+title: python_모듈
 layout: post
 date: 2019-08-03 20:23
 tag:

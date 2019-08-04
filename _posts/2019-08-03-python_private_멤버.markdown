@@ -1,5 +1,5 @@
 ---
-title: Python_private_멤버
+title: python_private_멤버
 layout: post
 date: 2019-08-03 20:20
 tag:

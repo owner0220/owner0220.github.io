@@ -1,5 +1,5 @@
 ---
-title: Python_사용자 정의 예외클래스
+title: python_사용자 정의 예외클래스
 layout: post
 date: 2019-08-03 20:25
 tag:

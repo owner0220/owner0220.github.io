@@ -1,5 +1,5 @@
 ---
-title: Python_학습법
+title: python_학습법
 layout: post
 date: 2019-08-03 20:26
 tag:

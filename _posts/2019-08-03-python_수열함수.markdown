@@ -1,5 +1,5 @@
 ---
-title: Python_수열함수
+title: python_수열함수
 layout: post
 date: 2019-08-03 20:16
 tag:
