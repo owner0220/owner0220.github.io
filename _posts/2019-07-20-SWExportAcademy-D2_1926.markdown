@@ -4,7 +4,6 @@ layout: post
 date: 2019-07-20 12:28
 tag:
 - algorithm
-- python
 category: blog
 author: insik
 description: SW Export Academy - 간단한 369게임

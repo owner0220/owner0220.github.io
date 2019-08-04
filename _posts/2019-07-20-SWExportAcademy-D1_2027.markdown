@@ -4,7 +4,6 @@ layout: post
 date: 2019-07-20 12:28
 tag:
 - algorithm
-- python
 category: blog
 author: insik
 description: SW Export Academy - 대각선 출력하기

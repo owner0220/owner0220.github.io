@@ -4,7 +4,6 @@ layout: post
 date: 2019-07-20 12:28
 tag:
 - algorithm
-- python
 category: blog
 author: insik
 description: SW Export Academy - 어디에 단어가 들어갈 수 있을까
