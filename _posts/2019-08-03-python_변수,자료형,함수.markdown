@@ -1,5 +1,5 @@
 ---
-title: python_변수,자료형,함수
+title: "python_변수,자료형,함수"
 layout: post
 date: 2019-08-03 20:00
 tag:

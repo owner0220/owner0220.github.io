@@ -1,5 +1,5 @@
 ---
-title: python_세트
+title: "python_세트"
 layout: post
 date: 2019-08-03 20:02
 tag:

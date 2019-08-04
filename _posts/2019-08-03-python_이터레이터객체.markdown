@@ -1,5 +1,5 @@
 ---
-title: python_lambda, Pass, __doc__, help, 이터레이터 객체
+title: "python_lambda, Pass, __doc__, help, 이터레이터 객체"
 layout: post
 date: 2019-08-03 20:13
 tag:

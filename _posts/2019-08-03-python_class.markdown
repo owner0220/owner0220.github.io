@@ -1,5 +1,5 @@
 ---
-title: python_class
+title: "python_class"
 layout: post
 date: 2019-08-03 20:17
 tag:

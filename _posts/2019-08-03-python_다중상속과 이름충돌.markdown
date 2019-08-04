@@ -1,5 +1,5 @@
 ---
-title: python_다중 상속과 이름 충돌
+title: "python_다중 상속과 이름 충돌"
 layout: post
 date: 2019-08-03 20:22
 tag:

@@ -1,5 +1,5 @@
 ---
-title: python_가변형,불변형
+title: "python_가변형,불변형"
 layout: post
 date: 2019-08-03 20:09
 tag:

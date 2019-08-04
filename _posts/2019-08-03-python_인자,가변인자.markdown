@@ -1,5 +1,5 @@
 ---
-title: python_인자,가변인자
+title: "python_인자,가변인자"
 layout: post
 date: 2019-08-03 20:11
 tag:

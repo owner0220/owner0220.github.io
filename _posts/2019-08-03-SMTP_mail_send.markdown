@@ -1,5 +1,5 @@
 ---
-title: SMTP를 이용한 메일 보내기
+title: "SMTP를 이용한 메일 보내기"
 layout: post
 date: 2019-08-03 18:07
 tag:

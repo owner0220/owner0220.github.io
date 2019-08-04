@@ -1,5 +1,5 @@
 ---
-title: python_윈도우_개발환경세팅
+title: "python_윈도우_개발환경세팅"
 layout: post
 date: 2019-08-03 20:00
 tag:

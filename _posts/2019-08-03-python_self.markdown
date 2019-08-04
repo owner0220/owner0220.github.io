@@ -1,5 +1,5 @@
 ---
-title: python_self
+title: "python_self"
 layout: post
 date: 2019-08-03 20:18
 tag:
