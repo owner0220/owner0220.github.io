@@ -9,9 +9,8 @@ subtitle: |
     - 데이터사이언티스트를 향해서 
     - Towards a data scientist
 description: |
-    - 데이터사이언티스트를 준비하는 과정을 기록하고 있습니다. 기술, 학습방법, 접근법, 과정중 얻은 인사이트를 공유하면서 초석을 다지고 있습니다. 모두들 화이팅 입니다.
-    - We are documenting the process of preparing a data scientist. We are laying the groundwork by sharing skills, learning methods, approaches, and insights gained during the process. Good luck to everyone.
-author: 씍씩
+    - 벽은 두드려서 깨버릴 때까지
+author: Sik
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
 language: en
 date_format: '%Y-%m-%d'
