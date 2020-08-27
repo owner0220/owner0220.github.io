@@ -125,6 +125,7 @@ menu:
   about: /about/
   archives: /archives/
   tags: /tags/
+  search: /search.xml
   sitemap: /sitemap.xml
   #commonweal: /404.html
 
@@ -601,7 +602,7 @@ local_search:
 # Alias: {% extlink text url "title" %}
 exturl: false
 
-
+search: search
 #! ---------------------------------------------------------------
 #! DO NOT EDIT THE FOLLOWING SETTINGS
 #! UNLESS YOU KNOW WHAT YOU ARE DOING
