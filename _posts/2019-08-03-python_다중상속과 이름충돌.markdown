@@ -1,0 +1,15 @@
+---
+title: python_다중 상속과 이름 충돌
+date: 2019-08-03 20:22:00
+categories:
+ - Language
+tag:
+ - Python
+---
+
+# Python
+
+## 다중상속과 이름충돌
+
+내부에서 부터 시작해서 상속 순서 순으로 우선순위 실행 된다.
+

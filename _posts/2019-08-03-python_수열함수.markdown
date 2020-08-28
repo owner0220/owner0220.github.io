@@ -1,0 +1,22 @@
+---
+title: python_수열함수
+layout: post
+date: 2019-08-03 20:16:00
+categories:
+ - Language
+tag:
+ - Python
+---
+
+# Python
+
+## 수열함수
+
+### range()
+
+파이썬 내장 함수로 수열기능
+
+### filter()
+
+걸러내기 기능의 내장함수
+

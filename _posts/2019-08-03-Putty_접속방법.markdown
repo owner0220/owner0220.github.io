@@ -1,0 +1,17 @@
+---
+title: Putty (SSH) 접속 방법
+date: 2019-08-03 19:56:00
+categories:
+ - Tool
+tag:
+ - SSH
+---
+
+## Putty 접속방법 (SSH)
+
+- 접속 아이피 입력
+  128.134.123.123
+- 접속 포트 입력
+  port:8000
+- 아이피 주소 찾기 ip addr
+

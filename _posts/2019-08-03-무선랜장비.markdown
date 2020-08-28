@@ -1,0 +1,46 @@
+---
+title: 무선랜 장비
+date: 2019-08-03 19:58:00
+categories:
+ - Network
+tag:
+ - H/W
+---
+
+# 무선랜 장비
+
+무선랜은 두 대 이상의 컴퓨터가 선 없이 연결한 상태로
+
+무선으로 된 로컬 영역 네트웍을 일컫는다.
+
+#### 무선랜 카드
+
+무선랜 카드는 PC나 서버 등의 컴퓨터를 무선으로 네트워크에 연결시키기 위한 무선 네트웍 카드이다.
+
+#### Access Point(AP)
+
+AP는 무선 랜을 구성하는 장치 중 하나로, 유선 랜과 무선 랜을 연결하는 장치이다.
+
+Access Point를 사용하여 Network를 구축하는 경우를 **Infrastructure Mode**라고 한다. 
+
+또한 Access Point없이 무선LAN Card만으로 Network 구축하는 경우를 **Ad-Hoc Mode**라고 한다.
+
+AP를 사용하면 기존의 유선LAN과 병행하여 네트웍 공유가 가능하다.
+
+- 이때는 Access Point라는 중계장치를 UTP케이블을 사용하여 허브에 연결해야 한다.
+- 무선LAN 사용자는 Access Point와 통신을 하고, 허브를 거쳐 외부 네트웍이나 인터넷으로 접속을 할 수 있다.
+- **Infrastructure Mode**는 AP를 이용하기 때문에 유선랜과 연동이 가능할 뿐 아니라, 통신범위가 **Ad-Hoc ModeDP** 비해서 넓다.
+
+ 무선LAN Card를 사용하여 Ad-Hoc Mode로 접속하면 여러대의 PC를 하나로 연결할 수 있다(Peer-to-Peer Networking).
+
+Ad-Hoc Mode는 AP없이 통신을 하기 때문에 AP비용이 들지 않는 장점이 있으나,
+
+유선랜과 연동이 되지 않으며 통신거리가 비교적 짧다는 단점이 있다.
+
+
+
+#### Antenna
+
+
+
+#### 유무선 공유기

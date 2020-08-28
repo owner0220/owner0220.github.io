@@ -1,0 +1,22 @@
+---
+title: cli_hive_접속
+date: 2019-08-03 18:14:00
+categories:
+ - Bigdata
+tag:
+ - Hive
+---
+
+## 하이브 cli 접속
+
+1. 쿼리문이 작성된 test.hql 파일 생성
+
+```
+CREATE TABLE OWNER.TABLENAME (COLNAME1 STRING, COLNAME2 STRING, COLNAME3 INT);
+```
+
+2. cli화면에서 하이브 쿼리문 실행
+
+```
+hive -f test.hql
+```
