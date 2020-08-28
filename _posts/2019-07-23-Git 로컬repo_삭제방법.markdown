@@ -1,0 +1,29 @@
+---
+title: Git 로컬 repo 삭제방법
+date: 2019-07-23 15:28:00
+categories:
+ - SVM
+ - SCM
+tag:
+ - Git
+---
+
+### 지금의 Repository만 삭제 하고 싶을 때
+
+- bash 창에 아래 명령어 입력 실행
+
+```bash
+rm -rf .git
+```
+
+### 지정한 경로에서 하위 폴더를 다 찾아 git repo를 삭제한다.
+
+- 지정한 git 디렉토리 내의 파일/디렉토리 안에 ".git"을 검색합니다.
+- 제거하기 전에 물어보는데 삭제를 계속 하려면 y를 입력, 아니면 n 입력후 엔터를 누르면 됩니다.
+
+```bash
+find $GIT_DIR -name *.git* -ok rm -Rf {} \;
+```
+
+> [Code Q&A] (https://code.i-harness.com/en/q/1283f6)
+
