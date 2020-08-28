@@ -9,10 +9,6 @@ tags:
  - SQL
 ---
 
-
-
-[TOC]
-
 > 연관된 교육
 >
 > - Baseline: Data, ML, AI  https://google.qwiklabs.com/quests/34
@@ -91,7 +87,7 @@ tags:
 
 - 확인 명령어 (지금 로그인한 아이디의 프로젝트 아이디가 가진 데이터베이스를 확인한다.)
 
-  ```curl
+  ```bash
   bq ls
   ```
 
@@ -99,7 +95,7 @@ tags:
 
   프로젝트 아이디 -> bigquery-public-data
 
-  ```curl
+  ```bash
   bq bigquery-public-data:
   ```
 
@@ -109,13 +105,13 @@ tags:
 
 - 생성 명령어
 
-  ```curl
+  ```bash
   bq mk
   ```
 
 - 데이터베이스 이름을 start 라고 했을때
 
-  ```curl
+  ```bash
   bq mk start
   ```
 
@@ -125,19 +121,19 @@ tags:
 
 - 외부에서 파일을 CLI 환경의 폴더위치에 가져오는 명령 (원래 GNU 에서 지원하는 명령 wget 사용)
 
-  ```curl
+  ```bash
   wget http://www.ssa.gov/OACT/babynames/names.zip
   ```
 
 - 다운이 잘 됬는지 다음 명령어로 확인
 
-  ```curl
+  ```bash
   ls
   ```
 
 - 받은 파일을 현재 폴더에 압축 해제 (폴더 위치는 상관없고 자료를 열람하기 위해 압축해제)
 
-  ```curl 
+  ```bash
   unzip names.zip
   ```
 
@@ -147,7 +143,7 @@ tags:
 
 - 명령은 다음과 같고
 
-  ```curl
+  ```bash
   bq load start.names2010 yob2010.txt name:string,gender:string,count:integer
   ```
 
@@ -164,13 +160,13 @@ tags:
 
 - 명령어
 
-  ```curl
+  ```bash
   bq ls
   ```
 
 - 데이터셋 이름 start
 
-  ```curl
+  ```bash
   bq ls start
   ```
 
@@ -180,7 +176,7 @@ tags:
 
 - 명령어
 
-  ```curl
+  ```bash
   bq show start.names2010
   ```
 
@@ -190,13 +186,13 @@ tags:
 
 - 명령어
 
-  ```curl
+  ```bash
   bq query
   ```
 
 - SQL 질의어 사용
 
-  ```curl
+  ```bash
   bq query "SELECT * FROM start.names2010"
   ```
 
@@ -223,49 +219,49 @@ tags:
 
    - 깃 클론
 
-     ```curl
+     ```bash
      git clone https://github.com/GoogleCloudPlatform/cloud-bigtable-examples.git
      ```
 
    - 클론 파일 위치로 이동
 
-     ```curl
+     ```bash
      cd cloud-bigtable-examples/quickstart
      ```
 
    - HBase shell 실행
 
-     ``` curl
+     ``` bash
      ./quickstart.sh
      ```
 
      - HBase 프롬프트 창에서 my-table, 칼럼 페밀리 이름은 cf1
 
-       ```shell
+       ```bash
        create 'my-table', 'cf1'
        ```
 
      - 테이블 리스트 확인
 
-       ```shell
+       ```bash
        list
        ```
 
      - 데이터 입력
 
-       ```shell
+       ```bash
        put 'my-table', 'r1', 'cf1:c1', 'test-value'
        ```
 
      - 테이블 데이터 확인
 
-       ```shell
+       ```bash
        scan 'my-table'
        ```
 
      - 테이블 삭제
 
-       ```shell
+       ```bash
        disable 'my-table'
        drop 'my-table'
        ```
@@ -273,7 +269,6 @@ tags:
        
 
 - Cloud Bigtable instance 생성
-- 
 
 ※ NoSQL 관련된 사용은 **cbt** 명령 이용 
 
@@ -303,7 +298,7 @@ tags:
 
 - 명령어
 
-  ```curl
+  ```bash
   gcloud dataproc clusters create example-cluster
   ```
 
@@ -313,7 +308,7 @@ tags:
 
 - 명령어
 
-  ```curl
+  ```bash
   gcloud dataproc jobs submit spark --cluster example-cluster \
     --class org.apache.spark.examples.SparkPi \
     --jars file:///usr/lib/spark/examples/jars/spark-examples.jar -- 1000
@@ -334,7 +329,7 @@ tags:
 
 - 명령어
 
-  ```curl
+  ```bash
   gcloud dataproc clusters update example-cluster --num-workers 4
   ```
 
@@ -394,7 +389,7 @@ tags:
 
 - 명령어
 
-  ```curl
+  ```bash
   datalab create my-datalab
   ```
 
@@ -410,7 +405,7 @@ tags:
 
 - 명령어
 
-  ```curl
+  ```bash
   sudo docker ps
   ```
 
@@ -420,7 +415,7 @@ tags:
 
 - 명령어
 
-  ```curl
+  ```bash
   docker exec -it <container-id> bash
   ```
 
@@ -434,7 +429,7 @@ tags:
 
 - 명령어
 
-  ```curl
+  ```bash
   cd /content/datalab/notebooks
   ```
 
@@ -442,7 +437,7 @@ tags:
 
 - 명령어
 
-  ```curl
+  ```bash
   git log
   ```
 

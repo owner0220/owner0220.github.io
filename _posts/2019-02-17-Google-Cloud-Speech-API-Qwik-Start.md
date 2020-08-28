@@ -7,15 +7,9 @@ tags:
  - Google_Studygem
 ---
 
-
-
 Google Cloud Speech API: Qwik Start
 
 > 19.02.17 기준 구글 클라우드 스피치 API 사용법 정리
-
-
-
-[TOC]
 
 ### API 사용을 위한 사전 준비물
 
@@ -39,50 +33,42 @@ Google Cloud Speech API: Qwik Start
 
 - Google Cloud Platform 에서 우리가 사용할 명령 입력 창 Cloud shell 을 열어준다.
 
-  ![pre1](/assets/google_study_gem/Speech_pre_01.png)
-
 - 아래 같은 창이 뜨는데 **START CLOUD SHELL** 클릭
-
-  ![pre2](/assets/google_study_gem/Speech_pre_02.png)
-
-  ![pre3](/assets/google_study_gem/Speech_pre_03.png)
 
 - **활성 계정 확인하기** 위해 아래와 같은 코드를 입력하면 아래와 같이 확인이 가능한다.
 
-  ```curl
+  ```bash
   gcloud auth list
   ```
 
-- ```curl
+  ```bash
   Credentialed accounts:
    - <myaccount>@<mydomain>.com (active)
   ```
 
-- ```curl
+  ```bash
   Credentialed accounts:
    - google1623327_student@qwiklabs.net
   ```
 
 
 
+
 - **프로젝트 계정 확인하기** 위해 아래와 같은 코드를 입력해 아래와 같이 확인
 
-- ```curl
+  ```bash
   gcloud config list project
   ```
 
-- ```curl
+  ```bash
   [core]
   project = <project_ID>
   ```
 
-- ```curl
+  ```bash
   [core]
   project = qwiklabs-gcp-44776a13dea667a6
   ```
-
-
-
 
 
 
@@ -93,20 +79,14 @@ Google Cloud Speech API: Qwik Start
 
   - **Navigation menu  >  APIs & services > Credentials**
 
-    ![1](/assets/google_study_gem/Speech_01.png)
-
   - 키를 발급 받기 위한 메뉴 **Create credentials** 찾아 클릭
-
-    ![2](/assets/google_study_gem/Speech_02.png)
 
   - **API Key** 를 찾아서 클릭
 
-    ![3](/assets/google_study_gem/Speech_03.png)
-
   - 여기서 만들어진 API Key를 복사해 curl 환경에서 환경변수로 사용할 수 있도록 다음 코드를 입력하고 = 옆에 붙여넣는다.
 
-    ```curl
-    export API_KEY =
+    ```bash
+  export API_KEY =
     ```
 
 
@@ -152,7 +132,7 @@ config 와 audio 두부분으로 나뉘는데
 
 - API Key와 함께 json 파일을 같이 보내 요청한다.
 
-  ```curl
+  ```bash
   curl -s -X POST -H "Content-Type: application/json" --data-binary @request.json \
   "https://speech.googleapis.com/v1beta1/speech:syncrecognize?key=${API_KEY}"
   ```
@@ -179,7 +159,7 @@ config 와 audio 두부분으로 나뉘는데
 
 - 요청이 성공하면 Json 응답이 다음과 같이 나온다.
 
-  ```curl
+  ``` bash
   {
     "results": [
       {
