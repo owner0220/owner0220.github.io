@@ -125,7 +125,7 @@ menu:
   about: /about/
   archives: /archives/
   tags: /tags/
-  search: /search.xml
+  #search: /search.xml
   sitemap: /sitemap.xml
   #commonweal: /404.html
 
