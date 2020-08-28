@@ -11,11 +11,7 @@ tags:
 Cloud Natural Language API: Qwik Start
 
 > 19.02.17 기준 구글 클라우드 자연어 처리 API 사용법 정리
-> 환경 : curl
-
-
-
-[TOC]
+> 환경 : bash
 
 ### API 사용을 위한 사전 준비물
 
@@ -43,38 +39,38 @@ Cloud Natural Language API: Qwik Start
 
 - **활성 계정 확인하기** 위해 아래와 같은 코드를 입력하면 아래와 같이 확인이 가능한다.
 
-  ```curl
+  ```bash
   gcloud auth list
   ```
 
-- ```curl
+  ```bash
   Credentialed accounts:
    - <myaccount>@<mydomain>.com (active)
   ```
 
-- ```curl
+  ```bash
   Credentialed accounts:
    - google1623327_student@qwiklabs.net
   ```
 
 
 
+
 - **프로젝트 계정 확인하기** 위해 아래와 같은 코드를 입력해 아래와 같이 확인
 
-- ```curl
+  ```bash
   gcloud config list project
   ```
 
-- ```curl
+  ```bash
   [core]
   project = <project_ID>
   ```
 
-- ```curl
+  ```bash
   [core]
   project = qwiklabs-gcp-44776a13dea667a6
   ```
-
 
 
 
@@ -85,27 +81,27 @@ Cloud Natural Language API: Qwik Start
 
   - **GOOGLE_CLOUD_PROJECT** 환경 변수 설정하기
 
-    ```curl
+    ```bash
     export GOOGLE_CLOUD_PROJECT=$(gcloud config get-value core/project)
     ```
 
   - Natural Language API 사용을 위한 **Credential** 및 **사용 어카운트** 생성
 
-    ```curl
+    ```bash
     gcloud iam service-accounts create my-natlang-sa \
       --display-name "my natural language service account"
     ```
 
   - **어카운트 로그인을 위한 key.json 파일 생성**
 
-    ```curl
+    ```bash
     gcloud iam service-accounts keys create ~/key.json \
       --iam-account my-natlang-sa@${GOOGLE_CLOUD_PROJECT}.iam.gserviceaccount.com
     ```
 
   - **GOOGLE_APPLICATION_CREDENTIALS** 환경 변수 설정
 
-    ```curl
+    ```bash
     export GOOGLE_APPLICATION_CREDENTIALS="/home/USER/key.json"
     ```
 
@@ -119,7 +115,7 @@ Cloud Natural Language API: Qwik Start
 
   문장을 분석하기 위해 아래와 같은 코드로 분석 요청
 
-  ```curl
+  ```bash
   gcloud ml language analyze-entities --content="Michelangelo Caravaggio, Italian painter, is known for 'The Calling of Saint Matthew'."
   ```
 
