@@ -4,7 +4,7 @@ date: 2019-07-25 11:54:00
 categories:
  - Language
 tag:
- - python
+ - Python
 ---
 
 ## 인터넷 없이 파이썬 패키지 설치

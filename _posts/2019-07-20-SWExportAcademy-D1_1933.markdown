@@ -4,8 +4,8 @@ date: 2019-07-20 12:28:00
 categories:
  - Algorithm
 tag:
- - swexport
- - python
+ - Swexpert
+ - Python
 ---
 
 ## SW_Export_Academy_개인학습
