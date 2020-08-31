@@ -7,8 +7,6 @@ tag:
  - Python
 ---
 
-# Python
-
 ### Class 란?
 
 - 새로운 형식을 정의하는 것을 의미한다.

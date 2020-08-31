@@ -7,8 +7,6 @@ tag:
  - Python
 ---
 
-# 코딩 공부 할때는...
-
 ## C.T. (Computational Thinking)
 
 - Compute : 계산하다.

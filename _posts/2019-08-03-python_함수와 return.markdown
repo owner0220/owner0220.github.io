@@ -7,8 +7,6 @@ tag:
  - Python
 ---
 
-# Python
-
 ## 함수와 Return
 
 - 함수 (Function) 

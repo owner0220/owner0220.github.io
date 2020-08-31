@@ -8,8 +8,6 @@ tag:
  - Python
 ---
 
-# Python
-
 ## 수열함수
 
 ### range()

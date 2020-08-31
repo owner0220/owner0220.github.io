@@ -7,8 +7,6 @@ tag:
  - Python
 ---
 
-# Python
-
 ## 조건구문
 
 **참**일때 if 안쪽

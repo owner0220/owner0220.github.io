@@ -8,13 +8,6 @@ tag:
  - Python
 ---
 
-## SW_Export_Academy_개인학습
-
-- 지속력 있는 학습을 위해 글을 올립니다.
-- 모든 출처와 저작권은 [SW Export Academy][출처]에 있습니다.
-
-
-
 # D1_1933. 간단한 N 의 약수
 
 ### 문제:

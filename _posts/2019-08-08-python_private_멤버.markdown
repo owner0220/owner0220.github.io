@@ -7,10 +7,6 @@ tag:
  - Python
 ---
 
-# Python
-
-## Private 멤버
-
 ### Private 멤버 변수 정의
 
 - 클래스 내부 멤버변수 中 숨기고 싶은 변수에 사용한다.

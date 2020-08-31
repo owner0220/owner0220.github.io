@@ -18,8 +18,6 @@ tags:
 > - BigQuery For Data Analysis https://google.qwiklabs.com/quests/55
 > - 기타 구글 교육 리스트(353개 이상) https://google.qwiklabs.com/catalog
 
-
-
 # 수집
 
 # SQL for BigQuery and Cloud SQL

@@ -7,8 +7,6 @@ tag:
  - Python
 ---
 
-# Python
-
 ## 예외처리
 
 ### try except

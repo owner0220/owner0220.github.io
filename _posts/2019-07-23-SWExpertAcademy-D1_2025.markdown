@@ -8,13 +8,6 @@ tag:
  - Python
 ---
 
-## SW_Expert_Academy_개인학습
-
-- 지속력 있는 학습을 위해 글을 올립니다.
-- 모든 출처와 저작권은 [SW Expert Academy][출처]에 있습니다.
-
-
-
 # D1_2025. N줄덧셈
 
 ### 문제:

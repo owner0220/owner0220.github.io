@@ -7,8 +7,6 @@ tag:
  - Python
 ---
 
-# Python
-
 ## 파이썬 모듈
 
 ### 모듈
