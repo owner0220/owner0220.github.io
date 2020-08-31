@@ -1,6 +1,6 @@
 ---
 title: python_self
-date: 2019-08-03 20:18:00
+date: 2019-08-09 20:18:00
 categories:
  - Language
 tag:

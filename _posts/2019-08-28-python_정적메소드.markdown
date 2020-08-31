@@ -1,6 +1,6 @@
 ---
 title: python_정적 메소드
-date: 2019-08-03 20:19:00
+date: 2019-08-28 20:19:00
 categories:
  - Language
 tag:

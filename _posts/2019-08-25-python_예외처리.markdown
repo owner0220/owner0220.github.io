@@ -1,6 +1,6 @@
 ---
 title: python_예외처리
-date: 2019-08-03 20:24:00
+date: 2019-08-25 20:24:00
 categories:
  - Language
 tag:

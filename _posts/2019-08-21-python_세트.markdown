@@ -1,6 +1,6 @@
 ---
 title: python_세트
-date: 2019-08-03 20:02:00
+date: 2019-08-21 20:02:00
 categories:
  - Language
 tag:

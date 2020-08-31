@@ -1,6 +1,6 @@
 ---
 title: python_튜플
-date: 2019-08-03 20:02:00
+date: 2019-08-30 20:02:00
 categories:
  - Language
 tag:

@@ -1,6 +1,6 @@
 ---
 title: python_연산자
-date: 2019-08-03 20:07:00
+date: 2019-08-24 20:07:00
 categories:
  - Language
 tag:
