@@ -7,11 +7,11 @@ tag:
  - Python
 ---
 
-## C.T. (Computational Thinking)
-
-- Compute : 계산하다.
-- 현상을 **분해→ 패턴화→ 추상화→ 알고리즘**으로 문제를 해결하기 위함
-- input → [  ] → output
+> C.T. (Computational Thinking)
+>
+> - Compute : 계산하다.
+> - 현상을 **분해→ 패턴화→ 추상화→ 알고리즘**으로 문제를 해결하기 위함
+> - input → [  ] → output
 
 [deepmind 단백질 접기 올림픽]: http://www.ibric.org/myboard/read.php?id=300218&amp;amp;Board=news	"문제해결 대표 예시"
 

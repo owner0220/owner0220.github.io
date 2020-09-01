@@ -7,9 +7,9 @@ tag:
  - CSS
 ---
 
-# CSS
-
-## 박스 모델(Box Model)
+> CSS
+>
+> 박스 모델(Box Model)
 
 ```html
 <!doctype html>

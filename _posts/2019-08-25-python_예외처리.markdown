@@ -7,7 +7,7 @@ tag:
  - Python
 ---
 
-## 예외처리
+> 예외처리
 
 ### try except
 

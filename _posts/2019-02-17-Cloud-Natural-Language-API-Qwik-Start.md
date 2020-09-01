@@ -8,9 +8,10 @@ tags:
  - NLP
 ---
 
-Cloud Natural Language API: Qwik Start
-
 > 19.02.17 기준 구글 클라우드 자연어 처리 API 사용법 정리
+>
+> Cloud Natural Language API: Qwik Start
+>
 > 환경 : bash
 
 ### API 사용을 위한 사전 준비물

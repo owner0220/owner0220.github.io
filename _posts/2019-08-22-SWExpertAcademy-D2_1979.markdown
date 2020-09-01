@@ -8,25 +8,23 @@ tag:
  - Python
 ---
 
-# D2_1979. 어디에 단어가 들어갈 수 있을까
-
-### 문제:
-
-- N X N 크기의 단어 퍼즐을 만들려고 한다. 입력으로 단어 퍼즐의 모양이 주어진다.
-
-  주어진 퍼즐 모양에서 특정 길이 K를 갖는 단어가 들어갈 수 있는 자리의 수를 출력하는 프로그램을 작성하라.
-
-  **[예제]**
-
-  N = 5, K = 3 이고, 퍼즐의 모양이 아래 그림과 같이 주어졌을 때
-
-  ![img](https://www.swexpertacademy.com/main/common/fileDownload.do?downloadType=CKEditorImages&fileId=AV5PuqX6AawDFAUq)
-
-  길이가 3 인 단어가 들어갈 수 있는 자리는 2 곳(가로 1번, 가로 4번)이 된다.
-
-   
-
-  ![img](https://www.swexpertacademy.com/main/common/fileDownload.do?downloadType=CKEditorImages&fileId=AV5Puv2aAa4DFAUq)
+>  D2_1979. 어디에 단어가 들어갈 수 있을까
+>
+> 문제:
+>
+> - N X N 크기의 단어 퍼즐을 만들려고 한다. 입력으로 단어 퍼즐의 모양이 주어진다.
+>
+> - 주어진 퍼즐 모양에서 특정 길이 K를 갖는 단어가 들어갈 수 있는 자리의 수를 출력하는 프로그램을 작성하라.
+>
+> - **[예제]**
+>
+> - N = 5, K = 3 이고, 퍼즐의 모양이 아래 그림과 같이 주어졌을 때
+>
+>   ![img](https://www.swexpertacademy.com/main/common/fileDownload.do?downloadType=CKEditorImages&fileId=AV5PuqX6AawDFAUq)
+>
+> - 길이가 3 인 단어가 들어갈 수 있는 자리는 2 곳(가로 1번, 가로 4번)이 된다.
+>
+>   ![img](https://www.swexpertacademy.com/main/common/fileDownload.do?downloadType=CKEditorImages&fileId=AV5Puv2aAa4DFAUq)
 
 ### 입력:
 

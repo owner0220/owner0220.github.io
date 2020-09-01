@@ -8,13 +8,11 @@ tag:
  - Git
 ---
 
-# Git 시작
-
-git ver 2.0.0  기준
-
-## Git 설치 -  <https://git-scm.com/>
-
-
+> Git 시작
+>
+> git ver 2.0.0  기준
+>
+> Git 설치 -  <https://git-scm.com/>
 
 ### Linux 운영체제
 

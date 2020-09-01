@@ -9,16 +9,12 @@ tags:
  - SQL
 ---
 
-> 연관된 교육
->
 > - Baseline: Data, ML, AI  https://google.qwiklabs.com/quests/34
-> - Data Science on the Google Cloud Platform https://google.qwiklabs.com/quests/43
+>- Data Science on the Google Cloud Platform https://google.qwiklabs.com/quests/43
 > - Scientific Data Processing  https://google.qwiklabs.com/quests/28
 > - Cloud SQL  https://google.qwiklabs.com/quests/52
 > - BigQuery For Data Analysis https://google.qwiklabs.com/quests/55
 > - 기타 구글 교육 리스트(353개 이상) https://google.qwiklabs.com/catalog
-
-# 수집
 
 # SQL for BigQuery and Cloud SQL
 

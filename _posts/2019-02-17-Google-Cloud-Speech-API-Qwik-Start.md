@@ -7,9 +7,11 @@ tags:
  - Google_Studygem
 ---
 
-Google Cloud Speech API: Qwik Start
-
 > 19.02.17 기준 구글 클라우드 스피치 API 사용법 정리
+>
+> Google Cloud Speech API: Qwik Start
+>
+> 환경 : bash
 
 ### API 사용을 위한 사전 준비물
 

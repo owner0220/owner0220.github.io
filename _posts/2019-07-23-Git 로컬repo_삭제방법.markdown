@@ -8,7 +8,7 @@ tag:
  - Git
 ---
 
-### 지금의 Repository만 삭제 하고 싶을 때
+> 지금의 Repository만 삭제 하고 싶을 때
 
 - bash 창에 아래 명령어 입력 실행
 

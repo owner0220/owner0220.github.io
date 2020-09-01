@@ -8,25 +8,23 @@ tag:
  - Python
 ---
 
-# D2_1954. 달팽이 숫자
-
-### 문제:
-
-- 달팽이는 1부터 N*N까지의 숫자가 시계방향으로 이루어져 있다.
-
-  다음과 같이 정수 N을 입력 받아 N크기의 달팽이를 출력하시오.
-
-  **[예제]**
-
-  N이 3일 경우,
-
-  ![img](https://www.swexpertacademy.com/main/common/fileDownload.do?downloadType=CKEditorImages&fileId=AV5PpDX6AQIDFAUq)
-
-  N이 4일 경우,
-
-   
-
-  ![img](https://www.swexpertacademy.com/main/common/fileDownload.do?downloadType=CKEditorImages&fileId=AV5PpGRqAQQDFAUq)
+> D2_1954. 달팽이 숫자
+>
+> 문제:
+>
+> - 달팽이는 1부터 N*N까지의 숫자가 시계방향으로 이루어져 있다.
+>
+> - 다음과 같이 정수 N을 입력 받아 N크기의 달팽이를 출력하시오.
+>
+> - **[예제]**
+>
+>   N이 3일 경우,
+>
+>   ![img](https://www.swexpertacademy.com/main/common/fileDownload.do?downloadType=CKEditorImages&fileId=AV5PpDX6AQIDFAUq)
+>
+>   N이 4일 경우,
+>
+>   ![img](https://www.swexpertacademy.com/main/common/fileDownload.do?downloadType=CKEditorImages&fileId=AV5PpGRqAQQDFAUq)
 
 ### 입력:
 
