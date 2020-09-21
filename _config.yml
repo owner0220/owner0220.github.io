@@ -65,7 +65,7 @@ defaults:
 
 # Atom feed
 feed:
-  path: atom.xml
+  path: feed.xml
 
 # Plugins
 ## Docs: https://help.github.com/articles/configuring-jekyll-plugins/
@@ -308,8 +308,8 @@ excerpt_description: true
 # Automatically Excerpt. Not recommend.
 # Please use <!-- more --> in the post to control excerpt accurately.
 auto_excerpt:
-  enable: false
-  length: 150
+  enable: true
+  length: 10
 
 # Post meta display settings
 post_meta:
