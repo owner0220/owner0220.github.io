@@ -2,47 +2,47 @@
 layout: page
 type: about
 ---
-#### 장벽은 두드려서 깨어질 때까지
-
-![profile](https://owner0220.github.io/assets/images/avatar.gif)
-
-> 저는 일과 시간을 정돈하여 계획적으로 수행하는 강점을 통해, 사람들에게 영향을 미치는 사람입니다.
-
-##### 보유기술 (Skills)
-Language
-- Java, Python, Script, C, Html & Css, Javascript
-
-Framework / Library
-- Spring(and STS), Vue.js, Node.js, Bootstrap, jQuery
-
-Opensource
-- 
-Environment
-
-Etc
-
-
-##### 프로젝트
-1. 현재 부터
-
-
-
-
-4. 과거 순으로
-
-(기술적 관점, 프로젝트 진행자로서, 팀원과의 소통)
+#### Sigg장벽은 두드려서 깨어질 때까지
 
 
 
 
 
-플젤 내용 정리 (따로 포스팅)
-두 가지 사례를 추가로 간략하게 넣기도 했습니다.
+# Sik's |  :running: :boy: 회고하고 발전하는 개발자
 
-문제 정의
-원인
-측정 (문제의 결과, 심각성)
-해결책 (연구 및 대안책)
-해결 과정
-평가 (문제가 해결되었는지 측정)
-비고 (회고, 부수효과)
+일과 시간을 정돈하여 계획적으로 수행하는 강점으로, 사람들에게 영향을 미치는 개발자입니다.
+
+### Channel.
+
+GitHub. https://github.com/owner0220
+
+GitPages. https://owner0220.github.io
+
+Linkedin. https://www.linkedin.com/in/%EC%9D%B8%EC%8B%9D-%ED%99%A9-755957188/
+
+
+
+### Introduce.
+
+빅데이터 개발자로 주로 빅데이터 시스템 구축 개발을 담당했습니다. 데이터 수집 및 추출 부터 적재 , 데이터 시각화 개발을 담당했으며 필요에 따라 PL(Project Leader) 역할을 겸하였던 경험이 있습니다.
+
+비즈니스와 역량 발전을 위해 노력하는 것을 좋아합니다. 팀원을 모집하고 기획부터 개발까지 참여하면서 각 포지션 역할을 이해하는 역량을 쌓고자 노력해왔습니다.
+
+
+
+### Work Experience.
+
+펜타시스템 (2019.06 ~ 현재)
+
+
+
+### Skill.
+
+- Language : Java, Python, Script, Batch, C
+- Front-End : JavaScript, HTML/CSS
+- Back-End : Node.js, Python, Java
+- Database : MariaDB, MongoDB, Oracle, Tibero, MSSQL
+- Bigdata : ELK, Hadoop
+- Framework / Library : STS, Vue.js, Bootstrap, jQuery
+
+- Tool : VisualStudio, Pycharm, Eclipse
