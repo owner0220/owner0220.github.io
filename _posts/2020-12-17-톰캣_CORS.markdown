@@ -1,0 +1,57 @@
+---
+title: Apache Tomcat server CORS allow
+date: 2020-12-17 16:0:00
+categories:
+ - ApacheTomcat
+tag:
+ - CORS
+---
+
+### Apache Tomcat server CORS Allow
+
+- 아파치 톰캣 서버 측에서 CORS 허용 방법
+  - conf 폴더 안 web.xml 내용 수정
+    - CorsFilter 허용
+    - CorsFilter 허용 url 추가
+  - Apache-tomcat 재구동
+
+<!-- more -->
+
+- 설치 위치 conf 폴더 안 web.xml 내용 수정
+
+apache-tomcat 설치 폴더/conf/web.xml
+
+```xml
+<web-app>
+...    
+    
+<filter>
+  <filter-name>CorsFilter</filter-name>
+  <filter-class>org.apache.catalina.filters.CorsFilter</filter-class>
+  <init-param>
+    <param-name>cors.allowed.origins</param-name>
+    <param-value>*</param-value>
+  </init-param>
+</filter>
+    
+<filter-mapping>
+  <filter-name>CorsFilter</filter-name>
+  <url-pattern>/*</url-pattern>
+</filter-mapping>
+    
+...
+<web-app>
+```
+
+---
+
+web-app
+
+- filter
+- filter-mapping
+
+---
+
+
+
+- Apache-tomcat 재구동
