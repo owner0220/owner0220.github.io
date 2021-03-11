@@ -11,6 +11,14 @@
 
 <html class="{{ html_class | downcase }}" lang="{{ site.language }}">
 <head>
+	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-176731218-2"></script>
+	<script>
+	  window.dataLayer = window.dataLayer || [];
+	  function gtag(){dataLayer.push(arguments);}
+	  gtag('js', new Date());
+
+	  gtag('config', 'UA-176731218-2');
+	</script>
   {% include _partials/head.html %}
   <title>{{ title }}</title>
   {% include _third-party/analytics/index.html %}
