@@ -1,5 +1,5 @@
 ---
-title: 하둡 스터디 15
+title: Architecting Modern Data Platforms 15
 date: 2021-03-15 08:28:00
 categories:
  - hadoop

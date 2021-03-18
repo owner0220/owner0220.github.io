@@ -1,5 +1,5 @@
 ---
-title: 하둡 스터디 10
+title: Architecting Modern Data Platforms 10
 date: 2021-03-11 10:41:00
 categories:
  - hadoop

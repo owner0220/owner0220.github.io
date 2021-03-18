@@ -1,5 +1,5 @@
 ---
-title: 하둡 스터디 01,02
+title: Architecting Modern Data Platforms 01,02
 date: 2021-03-02 12:00:00
 categories:
  - hadoop

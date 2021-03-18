@@ -1,5 +1,5 @@
 ---
-title: 하둡 스터디 12
+title: Architecting Modern Data Platforms 12
 date: 2021-03-15 08:02:00
 categories:
  - hadoop

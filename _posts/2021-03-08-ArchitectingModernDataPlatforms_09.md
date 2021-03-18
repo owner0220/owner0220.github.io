@@ -1,5 +1,5 @@
 ---
-title: 하둡 스터디 09
+title: Architecting Modern Data Platforms 09
 date: 2021-03-08 10:00:00
 categories:
  - hadoop

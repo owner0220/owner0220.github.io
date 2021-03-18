@@ -1,5 +1,5 @@
 ---
-title: 하둡 셀프 스터디 01
+title: Hadoop | The Definitive Guide 01
 date: 2021-03-16 18:45:00
 categories:
  - hadoop
@@ -9,11 +9,7 @@ tag:
 
 # 1장 하둡 기초
 
-
-
-# Part 1. 하둡 기초
-
-### 1장 하둡과의 만남
+## Part 1. 하둡과의 만남
 
 우리에게 필요한 것은 커다란 한 대의 컴퓨터가 아니라 매우 많은 컴퓨터로 이뤄진 새로운 시스템이다. - 그레이스 호퍼(Grace Hopper)
 

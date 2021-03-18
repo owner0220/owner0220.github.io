@@ -1,5 +1,5 @@
 ---
-title: 하둡 스터디 06
+title: Architecting Modern Data Platforms 06
 date: 2021-03-11 10:58:00
 categories:
  - hadoop

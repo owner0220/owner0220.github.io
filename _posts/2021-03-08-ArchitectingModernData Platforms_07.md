@@ -1,5 +1,5 @@
 ---
-title: 하둡 스터디 07
+title: Architecting Modern Data Platforms 07
 date: 2021-03-08 08:55:00
 categories:
  - hadoop

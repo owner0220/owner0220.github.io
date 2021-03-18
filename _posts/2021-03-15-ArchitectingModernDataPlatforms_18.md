@@ -1,5 +1,5 @@
 ---
-title: 하둡 스터디 18
+title: Architecting Modern Data Platforms 18
 date: 2021-03-15 08:50:00
 categories:
  - hadoop
