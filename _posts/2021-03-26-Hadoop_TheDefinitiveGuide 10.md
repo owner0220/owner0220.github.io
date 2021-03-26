@@ -268,7 +268,25 @@ $ hdfs dfsadmin -setSpaceQuota 1t /user/username
 
 ##### 시스템 로그파일
 
+하둡이 생성하는 시스템 로그파일은 별도로 지정하지 않으면 $HADOOP_HOME/logs에 저장된다. `hadoop-env.sh`의 환경변수인 HADOOP_LOG_DIR로 변경할 수 있다. 하둡이 설치된 디렉터리와 로그파일을 저장하는 디렉터리는 서로 분리하는 것이 좋다. 보통 로그파일은 /var/log/hadoop에 저장하며, hadoop-env.sh에 다음과 같이 추가한다.
+
+```bash
+export HADOOP_LOG_DIR=/var/log/hadoop
+```
+
+※ 지정한 로그 디렉터리가 존재하지 않으면 자동으로 생성된다.(생성되지 않으면 관련된 하둡 사용자 계정에 생성 권한이 있는지 확인하라.)
+
+표준 출력과 표준 에러 로그가 함께 기록되는 로그 파일
+
+- hadoop-hdfs-datanode-ip-10-45-174-112.log.2014-09-20.1
+- hadoop-hdfs-datanode-ip-10-45-174-112.log.2014-09-20.5
+  - 데몬이 재시작 될때만 순환되고 최근 다섯개 로그만 보관
+
+로그파일의 이름의 사용자는 hadoop-env.sh HADOOP_IDENT_STRING 속성의 값을 기본으로 따른다.
+
 ##### SSH 설정
+
+
 
 #### 10.3.3 중요한 하둡 데몬 속성
 
