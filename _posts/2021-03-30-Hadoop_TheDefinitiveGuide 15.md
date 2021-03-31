@@ -263,3 +263,4 @@ $ sqoop export --connect jdbc:mysql://localhost/hadoopguide -m 1 --table sales_b
 #### 15.9.2 익스포트와 시퀀스 파일
 
 ### 15.10 참고 도서
+
