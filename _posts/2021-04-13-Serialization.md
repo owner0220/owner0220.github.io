@@ -13,7 +13,7 @@ tag:
 
 직렬화는 객체(Object)의 상태를 바이트 스트림으로 변환하는 매커니즘입니다. 역직렬화는 바이트 스트림을 사용해 메모리에서 실제 Java 개체를 다시 만드는 역방향 프로세스 입니다.
 
-![serialization](/assets/images/serialization.PNG)
+![serialization](/images/serialization.PNG)
 
 <!-- more -->
 
@@ -32,7 +32,7 @@ JAVA에서 직렬화 하기 위해서는 java.io.Serializable 인터페이스를
 1. 객체의 상태를 저장하고 유지
 2. 네트워크를 통해 전송하기 위함
 
-![Advantages of Serialization](/assets/images/Advantages of Serialization.PNG)
+![Advantages of Serialization](/images/Advantages of Serialization.PNG)
 
 ※ 기억해야 할 사항
 
