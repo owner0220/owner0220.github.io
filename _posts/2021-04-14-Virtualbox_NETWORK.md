@@ -21,7 +21,7 @@ tag:
 
 **VBoxManage** 로 조정하는 것은 GUI로 봤을 때 vm 을 클릭 하고 setting을 눌러 network를 세팅하는 것을 말합니다.
 
-![Virtualbox_Setting](C:\Users\owner0220\Downloads\owner0220.github.io\assets\images\Virtualbox_Setting.PNG)
+![Virtualbox_Setting](/assets/images/Virtualbox_Setting.PNG)
 
 
 
@@ -82,7 +82,7 @@ VirtualBox는여러 네트워크 모드를 제공합니다.(VM을 클릭, settin
 
 ※ 각각의 VM은 독립적인 NAT 디바이스로 구성되어 있습니다.
 
-![Virtualbox_NAT](C:\Users\owner0220\Downloads\owner0220.github.io\assets\images\Virtualbox_NAT.PNG)
+![Virtualbox_NAT](/assets/images/Virtualbox_NAT.PNG)
 
 ###### NAT 모드 활성화 cli 명령어
 
@@ -110,7 +110,7 @@ VBoxManage modifyvm VM_name --nic1 nat
 
 ##### NAT Network
 
-![Virtualbox_NAT_Network](C:\Users\owner0220\Downloads\owner0220.github.io\assets\images\Virtualbox_NAT_Network.PNG)
+![Virtualbox_NAT_Network](/assets/images/Virtualbox_NAT_Network.PNG)
 
 여러 VM에서 NAT Network를 사용할 경우 VM들은 NAT 네트워크를 통해서 VM들 끼리 통신이 가능하며, VM은 host 기기의 Physical NIC를 통해 외부 네트워크와 통신이 됩니다.
 
@@ -118,11 +118,11 @@ VBoxManage modifyvm VM_name --nic1 nat
 
 VirtualBox에서 NAT Network를 추가 구성할 수 있습니다.
 
-![Virtualbox_NAT_Setting](C:\Users\owner0220\Downloads\owner0220.github.io\assets\images\Virtualbox_NAT_Setting.PNG)
+![Virtualbox_NAT_Setting](/assets/images/Virtualbox_NAT_Setting.PNG)
 
 
 
-![Virtualbox_NAT_Setting2](C:\Users\owner0220\Downloads\owner0220.github.io\assets\images\Virtualbox_NAT_Setting2.PNG)
+![Virtualbox_NAT_Setting2](/assets/images/Virtualbox_NAT_Setting2.PNG)
 
 default NatNetwork 구성 스위치 IP CIDR 구성은 10.0.2.0/24 입니다.
 
@@ -159,6 +159,17 @@ $ VBoxManage modifyvm VM_name --nic1 natnetwork
 *nic1* : 첫번째 VM 네트워크 어댑터
 
 *natnetwork*  : 사용할 Virtualbox network mode
+
+※ VM 에 위의 세팅을 적용할 경우 VM을 restart 시켜줘야 할 수 있습니다.
+
+- 윈도우 6.0.12 r133076 GUI 로 수정 테스트 했을 때는 VM restart 없이 적용 되었습니다.
+
+
+
+#### Port Forwarding
+
+- VM > Settings > Network
+- File > Preferences > Network
 
 
 
