@@ -7,8 +7,6 @@ tag:
  - Serialization
 ---
 
-### Serialization
-
 ### 직렬화 (Serialization) 
 
 직렬화는 객체(Object)의 상태를 바이트 스트림으로 변환하는 매커니즘입니다. 역직렬화는 바이트 스트림을 사용해 메모리에서 실제 Java 개체를 다시 만드는 역방향 프로세스 입니다.
