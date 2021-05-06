@@ -5,9 +5,6 @@ categories:
  - PRODUCT
 tags:
  - Google Cloud
- - Google_Studygem
- - BigQuery
- - SQL
 ---
 
 > - Baseline: Data, ML, AI  https://google.qwiklabs.com/quests/34

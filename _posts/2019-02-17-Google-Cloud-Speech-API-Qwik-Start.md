@@ -5,7 +5,6 @@ categories:
  - PRODUCT
 tags:
  - Google Cloud
- - Google_Studygem
 ---
 
 > 19.02.17 기준 구글 클라우드 스피치 API 사용법 정리
@@ -89,7 +88,7 @@ tags:
   - 여기서 만들어진 API Key를 복사해 curl 환경에서 환경변수로 사용할 수 있도록 다음 코드를 입력하고 = 옆에 붙여넣는다.
 
     ```bash
-  export API_KEY =
+    export API_KEY =
     ```
 
 

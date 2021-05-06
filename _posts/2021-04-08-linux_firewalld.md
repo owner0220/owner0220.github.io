@@ -5,8 +5,6 @@ categories:
  - PRODUCT
 tag:
  - RHEL
- - CENTOS
- - firewall
 ---
 
 ### 리눅스 방화벽 특정 IP 모든 포트 오픈

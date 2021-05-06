@@ -5,8 +5,6 @@ categories:
  - PRODUCT
 tag:
  - Git
- - SVM
- - SCM
 ---
 
 > 공동 작업 환경 만들기

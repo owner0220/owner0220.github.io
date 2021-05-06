@@ -5,7 +5,6 @@ categories:
  - DEFINITION
 tag:
  - NAT
- - Network
 ---
 
 ### NAT (Network Address Translation)

@@ -5,7 +5,6 @@ categories:
  - RULE
 tag:
  - Function_Point
- - Cost
 ---
 
 > KOSA\_한국소프트웨어산업협회, http://www.sw.or.kr (한국소프트웨어산업협회_기능점수교육)

@@ -4,15 +4,12 @@ date: 2020-09-02 17:11:00
 categories:
  - RULE
 tag:
- - Web
  - Function_Point
- - Cost
 ---
 
 > KOSA\_한국소프트웨어산업협회, http://www.sw.or.kr 
 >
 > - "국제표준기반 기능점수 산정 안내서"
->
 
 ### Web기반 시스템 기능점수 산정 사례
 

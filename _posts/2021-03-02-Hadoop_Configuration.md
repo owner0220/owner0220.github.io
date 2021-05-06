@@ -5,7 +5,6 @@ categories:
  - PRODUCT
 tag:
  - hadoop
- - prerequsition
 ---
 
 ### Non-Secure Mode 하둡 설정

@@ -5,7 +5,6 @@ categories:
  - ALGORITHM
 tag:
  - Swexpert
- - Python
 ---
 
 >  D2_1979. 어디에 단어가 들어갈 수 있을까

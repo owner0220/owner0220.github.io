@@ -5,8 +5,6 @@ categories:
  - PRODUCT
 tags:
  - Google Cloud
- - Google_Studygem
- - NLP
 ---
 
 > 19.02.17 기준 구글 클라우드 자연어 처리 API 사용법 정리

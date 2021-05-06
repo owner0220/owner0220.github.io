@@ -5,7 +5,6 @@ categories:
  - PRODUCT
 tag:
  - hadoop
- - prerequsition
 ---
 
 ### 하둡 설치 전 체크 및 준비 내용

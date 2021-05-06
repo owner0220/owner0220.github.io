@@ -5,7 +5,6 @@ categories:
  - CERTIFICATION
 tag:
  - 빅데이터분석기사
- - Certification
 ---
 
 > 빅데이터분석기사
