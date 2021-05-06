@@ -2,7 +2,7 @@
 title: python_다중 상속과 이름 충돌
 date: 2019-08-12 20:22:00
 categories:
- - Language
+ - PYTHON
 tag:
  - Python
 ---

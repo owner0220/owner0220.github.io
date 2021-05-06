@@ -2,7 +2,7 @@
 title: python_딕셔너리
 date: 2019-08-13 20:04:00
 categories:
- - Language
+ - PYTHON
 tag:
  - Python
 ---

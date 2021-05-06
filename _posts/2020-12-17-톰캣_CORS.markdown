@@ -2,9 +2,10 @@
 title: Apache Tomcat server CORS allow
 date: 2020-12-17 16:00:00
 categories:
- - ApacheTomcat
+ - MANUAL
 tag:
  - CORS
+ - Apache Tomcat
 ---
 
 ### Apache Tomcat server CORS Allow

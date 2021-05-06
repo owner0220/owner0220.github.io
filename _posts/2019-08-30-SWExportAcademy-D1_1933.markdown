@@ -2,7 +2,7 @@
 title: SW Export Academy - D1_1933
 date: 2019-08-30 12:28:00
 categories:
- - ALGORITHM
+ - SWEXPERT ACADEMY
 tag:
  - Swexpert
  - Python

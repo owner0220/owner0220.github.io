@@ -2,7 +2,7 @@
 title: python_상속과 다형성
 date: 2019-08-19 20:21:00
 categories:
- - Language
+ - PYTHON
 tag:
  - Python
 ---

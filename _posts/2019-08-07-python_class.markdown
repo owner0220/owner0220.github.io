@@ -2,7 +2,7 @@
 title: python_class
 date: 2019-08-07 20:17:00
 categories:
- - Language
+ - PYTHON
 tag:
  - Python
 ---

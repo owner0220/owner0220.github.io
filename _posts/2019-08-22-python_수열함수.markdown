@@ -3,7 +3,7 @@ title: python_수열함수
 layout: post
 date: 2019-08-22 20:16:00
 categories:
- - Language
+ - PYTHON
 tag:
  - Python
 ---

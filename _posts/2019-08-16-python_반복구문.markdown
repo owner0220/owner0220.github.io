@@ -2,7 +2,7 @@
 title: python_반복구문
 date: 2019-08-16 20:15:00
 categories:
- - Language
+ - PYTHON
 tag:
  - Python
 ---

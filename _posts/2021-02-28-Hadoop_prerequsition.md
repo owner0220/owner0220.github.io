@@ -2,7 +2,7 @@
 title: 하둡 Prerequisition
 date: 2021-02-28 17:35:00
 categories:
- - hadoop
+ - HADOOP
 tag:
  - hadoop
  - prerequsition

@@ -2,9 +2,10 @@
 title: Network_NAT
 date: 2021-04-12 12:25:00
 categories:
- - NETWORK
+ - DEFINITION
 tag:
  - NAT
+ - Network
 ---
 
 ### NAT (Network Address Translation)

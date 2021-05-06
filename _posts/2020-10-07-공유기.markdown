@@ -2,8 +2,9 @@
 title: 네트워크 설정 기본지식
 date: 2020-10-07 14:56:00
 categories:
- - Network
+ - DEFINITION
 tag:
+ - Network
  - dhcp
  - 공유기
  - NAT

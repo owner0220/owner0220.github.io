@@ -2,7 +2,7 @@
 title: Hadoop | The Definitive Guide 16
 date: 2021-03-31 13:27:00
 categories:
- - hadoop
+ - HADOOP
 tag:
  - hadoop
 ---

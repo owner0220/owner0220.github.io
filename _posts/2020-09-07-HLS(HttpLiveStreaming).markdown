@@ -2,8 +2,9 @@
 title: HLS(Http Live Streaming)
 date: 2020-09-07 18:14:00
 categories:
- - Http
+ - DEFINITION
 tag:
+ - Http
  - Streaming
  - HLS
 ---

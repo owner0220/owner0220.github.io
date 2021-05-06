@@ -2,9 +2,9 @@
 title: Self Definition of Bigdata Project
 date: 2021-04-21 13:09:00
 categories:
- - BIGDATA
-tag:
  - PROJECT
+tag:
+ - Bigdata
 ---
 
 ### 빅데이터 문서 작성 구조 정의

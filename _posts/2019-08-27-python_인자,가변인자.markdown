@@ -2,7 +2,7 @@
 title: python_인자,가변인자
 date: 2019-08-27 20:11:00
 categories:
- - Language
+ - PYTHON
 tag:
  - Python
 ---

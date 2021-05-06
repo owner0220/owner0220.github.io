@@ -2,11 +2,10 @@
 title: SW Expert Academy - D1_2019
 date: 2019-07-22 12:28:00
 categories:
- - ALGORITHM
+ - SWEXPERT ACADEMY
 tag:
  - Swexpert
  - Python
- 
 ---
 
 > D1_2019. 더블더블

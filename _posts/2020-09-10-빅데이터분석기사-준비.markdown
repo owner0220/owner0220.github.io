@@ -2,7 +2,7 @@
 title: 빅데이터분석기사-준비
 date: 2020-09-10 12:27:00
 categories:
- - Certification
+ - CERTIFICATION
 tag:
  - 빅데이터분석기사
  - Certification

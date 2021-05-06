@@ -2,11 +2,9 @@
 title: VirtualBox 네트워크 설정
 date: 2021-04-15 21:56:00
 categories:
- - NETWORK
  - VIRTUALBOX
 tag:
- - NETWORK
- - VIRTUALBOX
+ - Network
 ---
 
 ### Virtualbox NETWORK 설정

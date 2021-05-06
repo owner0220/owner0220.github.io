@@ -2,7 +2,7 @@
 title: 기능점수 산정(Function Point) - 간이법
 date: 2020-09-01 14:14:00
 categories:
- - 사업
+ - PROJECT
 tag:
  - Function_Point
  - Cost

@@ -2,7 +2,7 @@
 title: 하둡 Installation
 date: 2021-03-02 11:00:00
 categories:
- - hadoop
+ - HADOOP
 tag:
  - hadoop
  - installation

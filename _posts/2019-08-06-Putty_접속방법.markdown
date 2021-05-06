@@ -2,7 +2,7 @@
 title: Putty (SSH) 접속 방법
 date: 2019-08-06 19:56:00
 categories:
- - Tool
+ - MANUAL
 tag:
  - SSH
 ---

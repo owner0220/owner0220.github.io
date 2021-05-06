@@ -2,7 +2,7 @@
 title: python_생성자,소멸자
 date: 2019-08-20 20:19:00
 categories:
- - Language
+ - PYTHON
 tag:
  - Python
 ---

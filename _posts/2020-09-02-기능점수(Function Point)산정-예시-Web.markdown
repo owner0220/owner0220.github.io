@@ -2,9 +2,9 @@
 title: 기능점수 산정(Function Point) - 예시 - Web
 date: 2020-09-02 17:11:00
 categories:
- - 사업
- - WEB
+ - PROJECT
 tag:
+ - Web
  - Function_Point
  - Cost
 ---

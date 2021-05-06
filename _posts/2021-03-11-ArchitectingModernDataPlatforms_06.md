@@ -2,7 +2,7 @@
 title: Architecting Modern Data Platforms 06
 date: 2021-03-11 10:58:00
 categories:
- - hadoop
+ - HADOOP
 tag:
  - hadoop
 ---
