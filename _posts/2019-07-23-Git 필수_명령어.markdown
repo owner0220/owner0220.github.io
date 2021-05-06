@@ -2,7 +2,7 @@
 title: Git 필수_명령어
 date: 2019-07-23 11:52:00
 categories:
- - Git
+ - GIT
 tag:
  - SVM
  - SCM

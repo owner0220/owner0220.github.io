@@ -2,7 +2,7 @@
 title: Git_팀 프로젝트 준비하기
 date: 2019-07-23 11:54:00
 categories:
- - Git
+ - GIT
 tag:
  - SVM
  - SCM
