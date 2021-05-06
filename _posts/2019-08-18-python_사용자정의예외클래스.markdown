@@ -2,7 +2,7 @@
 title: python_사용자 정의 예외클래스
 date: 2019-08-18 20:25:00
 categories:
- - PYTHON
+ - LANGUAGE
 tag:
  - Python
 ---

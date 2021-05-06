@@ -2,7 +2,7 @@
 title: python_얕은복사,깊은복사
 date: 2019-08-23 20:05:00
 categories:
- - PYTHON
+ - LANGUAGE
 tag:
  - Python
 ---

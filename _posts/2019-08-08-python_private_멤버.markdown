@@ -2,7 +2,7 @@
 title: python_private_멤버
 date: 2019-08-08 20:20:00
 categories:
- - PYTHON
+ - LANGUAGE
 tag:
  - Python
 ---

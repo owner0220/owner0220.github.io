@@ -2,7 +2,7 @@
 title: "python_리스트"
 date: 2019-08-14 20:01:00
 categories:
- - PYTHON
+ - LANGUAGE
 tag:
  - Python
 ---

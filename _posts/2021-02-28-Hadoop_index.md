@@ -2,7 +2,7 @@
 title: 하둡 구성 시 개괄 정리 목차
 date: 2021-02-28 13:35:00
 categories:
- - HADOOP
+ - PRODUCT
 tag:
  - hadoop
  - prerequsition

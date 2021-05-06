@@ -2,7 +2,7 @@
 title: SW Expert Academy - D2_1926
 date: 2019-08-11 12:28:00
 categories:
- - SWEXPERT ACADEMY
+ - ALGORITHM
 tag:
  - Swexpert
  - Python

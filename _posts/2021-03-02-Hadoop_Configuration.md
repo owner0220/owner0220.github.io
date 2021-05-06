@@ -2,7 +2,7 @@
 title: 하둡 Configuration
 date: 2021-03-02 19:35:00
 categories:
- -  HADOOP
+ - PRODUCT
 tag:
  - hadoop
  - prerequsition

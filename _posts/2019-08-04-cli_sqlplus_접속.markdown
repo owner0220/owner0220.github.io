@@ -2,7 +2,7 @@
 title: cli_sqlplus_접속
 date: 2019-08-04 18:12:00
 categories:
- - SQLPLUS
+ - PRODUCT
 tag:
  - SQL
 ---

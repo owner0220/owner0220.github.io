@@ -2,8 +2,9 @@
 title: Git 시작_설치
 date: 2019-07-23 15:28:00
 categories:
- - GIT
+ - PRODUCT
 tag:
+ - Git
  - SVM
  - SCM
 ---

@@ -2,7 +2,7 @@
 title: python_윈도우_개발환경세팅
 date: 2019-08-11 20:00:00
 categories:
- - PYTHON
+ - LANGUAGE
 tag:
  - Python
 ---

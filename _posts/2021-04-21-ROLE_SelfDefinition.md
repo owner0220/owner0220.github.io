@@ -2,7 +2,7 @@
 title: Self Definition of Bigdata Project
 date: 2021-04-21 13:09:00
 categories:
- - PROJECT
+ - RULE
 tag:
  - Bigdata
 ---

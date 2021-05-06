@@ -2,7 +2,7 @@
 title: 오프라인 파이썬 패키지 설치
 date: 2019-07-25 11:54:00
 categories:
- - PYTHON
+ - LANGUAGE
 tag:
  - Python
 ---

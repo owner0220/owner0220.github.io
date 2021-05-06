@@ -2,7 +2,7 @@
 title: Sqlplus 접속방법
 date: 2019-07-24 11:30:00
 categories:
- - SQL
+ - PRODUCT
 tag:
  - SQL
 ---

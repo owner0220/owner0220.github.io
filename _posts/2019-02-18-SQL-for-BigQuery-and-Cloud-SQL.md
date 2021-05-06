@@ -2,8 +2,9 @@
 title: SQL for BigQuery and Cloud SQL
 date: 2019-02-18 00:00:00
 categories:
- - GOOGLE CLOUD
+ - PRODUCT
 tags:
+ - Google Cloud
  - Google_Studygem
  - BigQuery
  - SQL

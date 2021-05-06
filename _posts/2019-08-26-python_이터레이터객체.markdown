@@ -2,7 +2,7 @@
 title: python_lambda, Pass, __doc__, help, 이터레이터 객체
 date: 2019-08-26 20:13:00
 categories:
- - PYTHON
+ - LANGUAGE
 tag:
  - Python
 ---

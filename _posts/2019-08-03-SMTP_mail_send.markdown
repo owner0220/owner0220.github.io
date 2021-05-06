@@ -2,7 +2,7 @@
 title: SMTP를 이용한 메일 보내기
 date: 2019-08-03 18:07:00
 categories:
- - PYTHON
+ - LANGUAGE
 tag:
  - Python
 ---

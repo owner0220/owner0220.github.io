@@ -2,7 +2,7 @@
 title: Hadoop | The Definitive Guide 22
 date: 2021-04-01 09:03:00
 categories:
- - HADOOP
+ - PRODUCT
 tag:
  - hadoop
 ---

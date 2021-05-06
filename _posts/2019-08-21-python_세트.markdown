@@ -2,7 +2,7 @@
 title: python_세트
 date: 2019-08-21 20:02:00
 categories:
- - PYTHON
+ - LANGUAGE
 tag:
  - Python
 ---

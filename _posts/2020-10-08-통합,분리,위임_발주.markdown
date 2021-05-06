@@ -2,7 +2,7 @@
 title: 통합발주, 분리발주, 위임발주
 date: 2020-10-07 14:56:00
 categories:
- - PROJECT
+ - RULE
 tag:
  - 발주
 ---

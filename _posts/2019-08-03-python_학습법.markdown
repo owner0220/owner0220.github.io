@@ -2,7 +2,7 @@
 title: python_학습법
 date: 2019-08-03 20:26:00
 categories:
- - PYTHON
+ - LANGUAGE
 tag:
  - Python
 ---

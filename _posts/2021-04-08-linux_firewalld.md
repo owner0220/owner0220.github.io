@@ -2,9 +2,10 @@
 title: linux firewall
 date: 2021-04-08 14:21:00
 categories:
+ - PRODUCT
+tag:
  - RHEL
  - CENTOS
-tag:
  - firewall
 ---
 

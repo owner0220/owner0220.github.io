@@ -2,7 +2,7 @@
 title: 직렬화(Serialization) with Java Example
 date: 2021-04-13 13:23:00
 categories:
- - JAVA
+ - LANGUAGE
 tag:
  - Java
  - Serialization

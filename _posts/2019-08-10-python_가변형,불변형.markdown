@@ -2,7 +2,7 @@
 title: python_가변형,불변형
 date: 2019-08-10 20:09:00
 categories:
- - PYTHON
+ - LANGUAGE
 tag:
  - Python
 ---

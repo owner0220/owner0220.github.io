@@ -2,9 +2,10 @@
 title: typora Markdown
 date: 2019-08-03 18:05:00
 categories:
- - TYPORA
+ - PRODUCT
 tag:
- - Python
+ - Typora
+ - Markdown
 ---
 
 > Typora_마크다운
