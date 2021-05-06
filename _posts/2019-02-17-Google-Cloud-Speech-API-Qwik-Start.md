@@ -2,7 +2,7 @@
 title: 구글 클라우드 스피치 API 사용법 정리
 date: 2019-02-17 23:29:53
 categories:
- - Google
+ - GOOGLE CLOUD
 tags:
  - Google_Studygem
 ---

@@ -2,9 +2,9 @@
 title: 무선랜 장비
 date: 2019-08-03 19:58:00
 categories:
- - Network
+ - DEFINITION
 tag:
- - H/W
+ - Network
 ---
 
 > 무선랜 장비

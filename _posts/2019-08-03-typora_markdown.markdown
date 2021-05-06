@@ -2,7 +2,7 @@
 title: typora Markdown
 date: 2019-08-03 18:05:00
 categories:
- - Language
+ - TYPORA
 tag:
  - Python
 ---

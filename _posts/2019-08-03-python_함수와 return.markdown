@@ -2,7 +2,7 @@
 title: python_함수와 return
 date: 2019-08-03 20:08:00
 categories:
- - Language
+ - PYTHON
 tag:
  - Python
 ---

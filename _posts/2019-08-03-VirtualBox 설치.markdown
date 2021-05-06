@@ -2,7 +2,7 @@
 title: Virtual Box 설치
 date: 2019-08-03 18:00:00
 categories:
- - Tool
+ - VIRTUALBOX
 tag:
  - Virtualbox
 ---

@@ -2,10 +2,10 @@
 title: Git_팀 프로젝트 준비하기
 date: 2019-07-23 11:54:00
 categories:
+ - Git
+tag:
  - SVM
  - SCM
-tag:
- - Git
 ---
 
 > 공동 작업 환경 만들기

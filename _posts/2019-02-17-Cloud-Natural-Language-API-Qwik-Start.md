@@ -2,7 +2,7 @@
 title: 구글 클라우드 자연어 처리 API 사용법 정리
 date: 2019-02-17 00:00:00
 categories:
- - Google
+ - GOOGLE CLOUD
 tags:
  - Google_Studygem
  - NLP

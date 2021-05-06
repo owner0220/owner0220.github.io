@@ -2,10 +2,10 @@
 title: Git 로컬 repo 삭제방법
 date: 2019-07-23 15:28:00
 categories:
+ - Git
+tag:
  - SVM
  - SCM
-tag:
- - Git
 ---
 
 > 지금의 Repository만 삭제 하고 싶을 때
