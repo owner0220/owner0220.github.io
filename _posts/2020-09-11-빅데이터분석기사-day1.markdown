@@ -2,7 +2,7 @@
 title: 빅데이터분석기사-day1
 date: 2020-09-11 00:19:00
 categories:
- - CRETIFICATION
+ - CERTIFICATION
 tag:
  - 빅데이터분석기사
  - Certification
