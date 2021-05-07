@@ -5,7 +5,6 @@ categories:
  - ALGORITHM
 tag:
  - Swexpert
- - Python
 ---
 
 > D1_2058. 자릿수 더하기

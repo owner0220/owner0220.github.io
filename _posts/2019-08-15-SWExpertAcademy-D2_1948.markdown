@@ -5,7 +5,6 @@ categories:
  - ALGORITHM
 tag:
  - Swexpert
- - Python
 ---
 
 > D2_1948. 날짜 계산기

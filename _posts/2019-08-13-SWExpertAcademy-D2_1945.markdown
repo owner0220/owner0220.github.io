@@ -5,7 +5,6 @@ categories:
  - ALGORITHM
 tag:
  - Swexpert
- - Python
 ---
 
 > D2_1945. 간단한 소인수분해

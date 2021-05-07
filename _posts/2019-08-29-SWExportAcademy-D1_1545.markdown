@@ -5,7 +5,6 @@ categories:
  - ALGORITHM
 tag:
  - Swexpert
- - Python
 ---
 
 > D1_1545. 거꾸로 출력해 보아요

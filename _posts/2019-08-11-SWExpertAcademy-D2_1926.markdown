@@ -5,7 +5,6 @@ categories:
  - ALGORITHM
 tag:
  - Swexpert
- - Python
 ---
 
 > D2_1926. 간단한 369게임

@@ -4,12 +4,7 @@ date: 2020-10-07 14:56:00
 categories:
  - DEFINITION
 tag:
- - Network
- - dhcp
  - 공유기
- - NAT
- - Hub
- - DHCP
 ---
 
 ### 공유기

@@ -5,7 +5,6 @@ categories:
  - PRODUCT
 tag:
  - Typora
- - Markdown
 ---
 
 > Typora_마크다운

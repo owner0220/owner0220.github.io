@@ -5,7 +5,6 @@ categories:
  - PRODUCT
 tag:
  - hadoop
- - installation
 ---
 
 ### 하둡 설치

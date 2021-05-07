@@ -5,7 +5,6 @@ categories:
  - ALGORITHM
 tag:
  - Swexpert
- - Python 
 ---
 
 > D1_1938. 아주 간단한 계산기

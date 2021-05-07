@@ -5,8 +5,6 @@ categories:
  - PRODUCT
 tag:
  - Git
- - SVM
- - SCM
 ---
 
 > git 명령어

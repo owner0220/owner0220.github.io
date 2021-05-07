@@ -5,7 +5,6 @@ categories:
  - LANGUAGE
 tag:
  - Java
- - Serialization
 ---
 
 ### 직렬화 (Serialization) 

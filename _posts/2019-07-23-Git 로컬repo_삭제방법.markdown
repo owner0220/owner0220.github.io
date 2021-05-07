@@ -5,8 +5,6 @@ categories:
  - PRODUCT
 tag:
  - Git
- - SVM
- - SCM
 ---
 
 > 지금의 Repository만 삭제 하고 싶을 때
