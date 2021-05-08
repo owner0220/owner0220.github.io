@@ -35,11 +35,11 @@ tag:
 
 #### 실행 화면
 
-![CSS_BoxModel_01](../assets/images/post_img/CSS_BoxModel_01.png)
+![CSS_BoxModel_01](../assets/images/CSS_BoxModel_01.png)
 
 
 
-![CSS_BoxModel_02](../assets/images/post_img/CSS_BoxModel_02.png)
+![CSS_BoxModel_02](../assets/images/CSS_BoxModel_02.png)
 
 색이 있는 모든 영역이 h1 요소입니다. 각 색이 나타내는 영역은 다음과 같습니다.
 
